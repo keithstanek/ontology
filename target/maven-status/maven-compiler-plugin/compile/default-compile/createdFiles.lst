@@ -1,0 +1,11 @@
+dev/ontology/aerospace/service/ImpactReport.class
+dev/ontology/aerospace/model/Aircraft.class
+dev/ontology/aerospace/web/FleetController.class
+dev/ontology/aerospace/AerospaceApplication.class
+dev/ontology/aerospace/repository/ComponentRepository.class
+dev/ontology/aerospace/repository/AircraftRepository.class
+dev/ontology/aerospace/model/Component.class
+dev/ontology/aerospace/service/ImpactAnalysisService.class
+dev/ontology/aerospace/web/ComponentView.class
+dev/ontology/aerospace/model/Supplier.class
+dev/ontology/aerospace/model/AircraftSystem.class

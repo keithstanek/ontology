@@ -1,0 +1,11 @@
+/Users/breannastanek/projects/ontology/src/main/java/dev/ontology/aerospace/AerospaceApplication.java
+/Users/breannastanek/projects/ontology/src/main/java/dev/ontology/aerospace/model/Aircraft.java
+/Users/breannastanek/projects/ontology/src/main/java/dev/ontology/aerospace/model/AircraftSystem.java
+/Users/breannastanek/projects/ontology/src/main/java/dev/ontology/aerospace/model/Component.java
+/Users/breannastanek/projects/ontology/src/main/java/dev/ontology/aerospace/model/Supplier.java
+/Users/breannastanek/projects/ontology/src/main/java/dev/ontology/aerospace/repository/AircraftRepository.java
+/Users/breannastanek/projects/ontology/src/main/java/dev/ontology/aerospace/repository/ComponentRepository.java
+/Users/breannastanek/projects/ontology/src/main/java/dev/ontology/aerospace/service/ImpactAnalysisService.java
+/Users/breannastanek/projects/ontology/src/main/java/dev/ontology/aerospace/service/ImpactReport.java
+/Users/breannastanek/projects/ontology/src/main/java/dev/ontology/aerospace/web/ComponentView.java
+/Users/breannastanek/projects/ontology/src/main/java/dev/ontology/aerospace/web/FleetController.java
